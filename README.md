@@ -1,7 +1,7 @@
 <h1>BaseCamp</h1>
 
 
-<p>Discover smart contract development on Base and EVM-compatible chains. Complete Galxe Quests to Earn Roles and NFTs as you advance through modules.<p>
+<p>Discover smart contract development on Base and EVM-compatible chains. Complete serveral Exercises, Guild Quests to Earn Roles and NFTs as you advance through modules.<p>
 
 ---
 
@@ -11,3 +11,4 @@
 <br>
 <br>
 
+🌐 Useful links: [Website](https://base.org/) ┃ [Docs](https://docs.base.org/learn/welcome) ┃ [Guild](https://guild.xyz/buildonbase) ┃ [Discord](https://discord.gg/buildonbase) ┃ [Bridge](https://sepolia-bridge.base.org)  (Testnet) ┃ [Testnet Explorers](https://sepolia.basescan.org/)
