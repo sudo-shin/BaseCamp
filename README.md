@@ -1,5 +1,13 @@
-# BaseCamp
+<h1>BaseCamp</h1>
 
-![BaseCamp](https://docs.base.org/assets/images/Base_Camp_Hero_2-2227daf2c661820a29bc5659e1c29cfa.png)
 
-Discover smart contract development on Base and EVM-compatible chains. Earn NFTs as you advance through modules. 
+<p>Discover smart contract development on Base and EVM-compatible chains. Complete Galxe Quests to Earn Roles and NFTs as you advance through modules.<p>
+
+---
+
+<img width="1281" height="419" alt="Base_basemark_blue" src="https://github.com/user-attachments/assets/957c2700-dd16-4d95-b402-b84a62f908f7" />
+
+<br>
+<br>
+<br>
+
