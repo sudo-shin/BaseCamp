@@ -1,7 +1,7 @@
 <h1>BaseCamp</h1>
 
 
-<p>Discover smart contract development on Base and EVM-compatible chains. Complete serveral Exercises, Guild Quests to Earn Roles and NFTs as you advance through modules.<p>
+<p>Discover smart contract development on Base and other EVM-compatible chains. Complete several exercises and guild quests to earn roles and NFTs as you progress through the modules.<p>
 
 ---
 
